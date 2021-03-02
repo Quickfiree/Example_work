@@ -1,2 +1,2 @@
-# proP
-This repository was made to show my procedurally programmed minecraft bot and some of the short exercises I did in Procedural Programming.
+# Example work
+This repository was made to show example work I completed in Semester A of 1st Year.
